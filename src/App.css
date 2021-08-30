@@ -1,5 +1,14 @@
+.App-header {
+  margin: 30px 0;
+}
 .App .danielle-logo {
   max-height: 100px;
   display: block;
   margin: 0 auto;
+}
+
+.App footer {
+  font-size: 14px;
+  text-align: center;
+  margin: 30px 0;
 }
