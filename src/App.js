@@ -16,7 +16,7 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">
+        <footer>
           <a
             href="https://github.com/danielle-zn/react-dictionary.git"
             target="_blank"
