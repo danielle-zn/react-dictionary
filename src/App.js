@@ -14,7 +14,7 @@ function App() {
           />
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="moon" />
         </main>
         <footer>
           <a
@@ -24,7 +24,7 @@ function App() {
           >
             Open-source code
           </a>
-          , by Danielle Zamora Nieto
+          {""} by Danielle Zamora Nieto
         </footer>
       </div>
     </div>
