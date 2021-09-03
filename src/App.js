@@ -16,7 +16,7 @@ function App() {
         <main>
           <Dictionary defaultKeyword="moon" />
         </main>
-        <footer>
+        <footer className="p-3">
           <a
             href="https://github.com/danielle-zn/react-dictionary.git"
             target="_blank"
