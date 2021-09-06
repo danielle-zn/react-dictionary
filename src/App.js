@@ -25,6 +25,18 @@ function App() {
             Open-source code
           </a>
           {""} by Danielle Zamora Nieto
+          <div>
+            Get the{" "}
+            <a
+              href="https://codepen.io/P1N2O/pen/pyBNzX"
+              target="_blank"
+              rel="noreferrer"
+              animated
+              background
+            >
+              animated background
+            </a>
+          </div>
         </footer>
       </div>
     </div>
